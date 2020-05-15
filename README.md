@@ -1,5 +1,3 @@
-# ZadaniaRozne-Testowane
-
 # App Test using NUnit
 > Testing c# application with NUnit Framework in Visual Studio.
 ## Table of contents
