@@ -11,7 +11,7 @@
 
 ## General info
 > The application i am testing here was a project for OOP C# lessons. 
-> In the app I was supposed to create a hospital object with doctors objects as hospital workers and patients  objects assigned to them.
+> In the app I was supposed to create a hospital object with doctors objects as hospital workers and patients objects assigned to the latter.
 > There was alot lof logic which could be tested so I took advantage of that fact.
 > I used NUnit framework for testing purposes.
 > The application contains classes:
