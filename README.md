@@ -56,9 +56,9 @@ To run this test Project, You need to have:
 Project is: Done
 
 ## Contact
-### Feel free to contact me on:
+### Feel free to visit my about-me page:
 
-[GitHub](https:/www.github.com/xyanteos)
+[GitHub](https://xyanteos.github.io/REACT-site-project/)
 
 ### The tested project was created in collaboration with:
 * [Mateusz](https://github.com/mati9980)
